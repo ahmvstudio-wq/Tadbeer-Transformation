@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="container">
         <div className="footer-grid">
           <div>
-            <div style={{ marginBottom: '1.5rem', filter: 'brightness(0) invert(1)' }}>
+            <div style={{ marginBottom: '1.5rem', filter: 'brightness(0) invert(1) brightness(1.5)' }}>
               <Logo />
             </div>
             <p style={{ color: 'rgba(255,255,255,0.7)', marginBottom: '2rem', maxWidth: '300px' }}>

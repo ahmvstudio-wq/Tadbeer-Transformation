@@ -201,7 +201,6 @@ ul {
   height: 50px;
   width: auto;
   transition: var(--transition);
-  mix-blend-mode: multiply;
 }
 
 .hero-section {
