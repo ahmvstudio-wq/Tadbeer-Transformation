@@ -7,7 +7,6 @@ const Logo = () => {
         src="/logo.png"
         alt="Tadbeer Transformation"
         className="main-logo"
-        style={{ filter: 'brightness(0) invert(1)' }}
       />
     </div>
   );
